@@ -1,1 +1,0 @@
-Mysql configuration and implementation
